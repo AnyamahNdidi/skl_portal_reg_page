@@ -1,0 +1,27 @@
+.nav-text{
+  padding: 8px 0px 6px 0px;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  list-style: none;
+  width: 95%;
+  height: 50px;
+}
+
+.nav-text a{
+  text-decoration: none;
+  color: 			#F0FFF0;
+  font-size: 18px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  width: 95%;
+}
+
+.nav-text a:hover{
+
+  color: #C0DE8A;
+}
+span{
+  margin-left: 10px;
+}

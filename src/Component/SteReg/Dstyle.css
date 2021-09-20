@@ -1,0 +1,35 @@
+.mystyle{
+  width: 350px;
+}
+
+@media only screen and (max-width: 768px) {
+  .mystyle{
+    width:480px;
+   
+  }
+}
+@media only screen and (max-width: 425px) {
+  .mystyle{
+    width:300px;
+   
+  }
+}
+@media only screen and (max-width: 425px) {
+  .mystyle{
+    width:300px;
+   
+  }
+}
+@media only screen and (max-width: 375px) {
+  .mystyle{
+    width:300px;
+   
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .mystyle{
+    width: 280px;
+   
+  }
+}
